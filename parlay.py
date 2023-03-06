@@ -92,10 +92,10 @@ Contraseña= Entry(seccion1, bg="#F3F3F3")
 Contraseña.place(x=232, y=256)
 #los botones
 
-btonloG= Button(seccion1,text="Momio",bg="white")
+btonloG= Button(seccion1,text="Individual",bg="white")
 btonloG.place(x=25,y=30)
 
-btonloG= Button(seccion1,text="Individual",bg="white")
+btonloG= Button(seccion1,text="Parlay",bg="white")
 btonloG.place(x=140,y=30)
 
 btonloG= Button(seccion1,text="Equipo1",bg="white")

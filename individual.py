@@ -16,7 +16,7 @@ lblCantidadApostar.grid(row=1, column=0, padx=10, pady=10, sticky="w")
 btnIndividual = tk.Button(ventana, text="Individual", font=("Arial", 10), width=10)
 btnIndividual.grid(row=0, column=1, padx=10, pady=10)
 
-btnMomio = tk.Button(ventana, text="Momio", font=("Arial", 10), width=10)
+btnMomio = tk.Button(ventana, text="Parlay", font=("Arial", 10), width=10)
 btnMomio.grid(row=0, column=2, padx=10, pady=10)
 
 entryCantidadApostar = tk.Entry(ventana, font=("Arial", 10), width=15)
